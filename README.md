@@ -20,7 +20,7 @@ Welcome to surovishimu profile!
 
 <p>
 
-🚀 &emsp; Currently exploring **Next.js** and **Mongoose** to expand my skill set. <br/>
+🚀 &emsp;Currently exploring **Next.js** and **Mongoose** to expand my skill set. <br/>
 ✨  &emsp;Passionate coder fostering collaboration through knowledge.<br/>
 💻 &emsp;Code enthusiast, stays current with programming trends.<br/>
 </p>
