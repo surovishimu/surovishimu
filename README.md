@@ -20,9 +20,9 @@ Welcome to surovishimu profile!
 
 <p>
 
-🌱 &emsp; I’m currently learning **Next Js,Mongoose** <br/>
-✌️  &emsp; Enjoy to do programming and sharing knowledge <br/>
-❤️ &emsp; Love to writing code and learning new features<br/>
+🚀 &emsp; Currently exploring **Next.js** and **Mongoose** to expand my skill set. <br/>
+✨  &emsp;Passionate coder fostering collaboration through knowledge.<br/>
+💻 &emsp;Code enthusiast, stays current with programming trends.<br/>
 </p>
 
 
